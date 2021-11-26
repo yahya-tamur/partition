@@ -17,7 +17,7 @@ In my computer, it produces the 966,467 partitions of 60 in:
     user  0m3.014s
     sys   0m0.049s
 
-I think the time spent writing the 31 MB of data is a lot more significant than the time running the actual program.
+I think the time spent writing the 31 MB of data is a lot more significant than the time running the actual program. Finding just the number of partitions can obviously be easier and faster.
 
 Compile with 'make', run executable with a command line argument, like './partition n'.
 Example:
